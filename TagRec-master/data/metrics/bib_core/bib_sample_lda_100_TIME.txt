@@ -1,0 +1,4 @@
+Full training time: 36326
+Full test time: 2854
+Average test time: 4.025387870239775
+Total time: 39180
